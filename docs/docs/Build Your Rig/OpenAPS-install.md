@@ -232,7 +232,7 @@ To use these shortcuts, just type in the phrase you see on the left - i.e. `edit
 
 ## Finish your OpenAPS setup
 
-You're looping? Congrats! However, you're not done quite done yet. 
+You're looping? Congrats! However, you're not quite done yet. 
 
 ****************
 **Shortly after you confirm your loop is running, you should [set your preferences](http://openaps.readthedocs.io/en/latest/docs/While%20You%20Wait%20For%20Gear/preferences-and-safety-settings.html).  Don't forget, your preferences are reset to defaults after each run of a setup script, so please remember to check preferences after confirming a loop is successfully run/rerun.**
